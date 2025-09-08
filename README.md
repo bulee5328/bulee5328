@@ -22,8 +22,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=bulee5328&bg_color=180,fafafa,00000000&title_color=538cea&text_color=111111"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulee5328&layout=compact&bg_color=180,fafafa,00000000&title_color=538cea&text_color=111111"
-           /> </div> 
+         />  </div> 
     </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Projects </h2> <br> 
 <table>
@@ -33,17 +32,27 @@
     <th style="width: 20%;">⏳ Period</th>
   </tr>
   <tr>
+  <td style="width: 60%;"> 
+    PerfumeOnMe - 나만의 향기를 찾아주는 서비스
+    (<a href="https://github.com/PerfumeOnMe/Back-end" target="_blank">Server</a>, 
+     <a href="https://github.com/PerfumeOnMe/FastAPI-AI" target="_blank">FastAPI</a>)
+  </td>
+  <td style="width: 20%;">Server Developer(Spring Boot)</td>
+  <td style="width: 20%;">2025.07 ~ 2025.08</td>
+</tr>
+
+  <tr>
     <td style="width: 60%;"> 
       <a href="https://github.com/BEMINE-UMC/Server" target="_blank">BeMine - 포트폴리오 정보 공유 서비스</a>
     </td>
-    <td style="width: 20%;">Server Developer</td>
+    <td style="width: 20%;">Server Developer(Node.js)</td>
     <td style="width: 20%;">2024.12 ~ 2025.02</td>
   </tr>
   <tr>
     <td style="width: 60%;"> 
       <a href="https://github.com/Romantic-Yeojido/backend" target="_blank">낭만여지도 - 잊고 살던 낭만을 찾아주는 서비스</a>
     </td>
-    <td style="width: 20%;">Server Developer</td>
+    <td style="width: 20%;">Server Developer(Node.js)</td>
     <td style="width: 20%;">2024.12</td>
   </tr>
   <tr>
