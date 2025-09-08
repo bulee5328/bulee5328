@@ -35,7 +35,7 @@
   <td style="width: 60%;"> 
     PerfumeOnMe - 나만의 향기를 찾아주는 서비스
     (<a href="https://github.com/PerfumeOnMe/Back-end" target="_blank">Server</a>, 
-     <a href="https://github.com/PerfumeOnMe/FastAPI-AI" target="_blank">FastAPI</a>)
+     <a href="https://github.com/bulee5328/PerfumeOnMe_FastAPI" target="_blank">FastAPI</a>)
   </td>
   <td style="width: 20%;">Server Developer(Spring Boot)</td>
   <td style="width: 20%;">2025.07 ~ 2025.08</td>
